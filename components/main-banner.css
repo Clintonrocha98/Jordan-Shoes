@@ -1,30 +1,35 @@
 .main-banner{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     background-image: url(../img/Rectangle\ 21.png),url(../img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 378px;
+    height: 430px;
     width: 100vw;
     
     font-family: 'Montserrat';
     color: #F9F9F9;
 }
 .main-banner h1{
-    position: absolute;
-    width: 400px;
+    /* position: absolute; */
+    width: 445px;
     height: 39px;
-    left: 100px;
-    top: 248px;
+    /* left: 100px;
+    top: 248px; */
         
     font-weight: 700;
     font-size: 2rem;
     line-height: 39px;
 }
 .main-banner p{
-    position: absolute;
-    width: 460px;
+    /* position: absolute; */
+    width: 445px;
     height: 70px;
-    left: 100px;
-    top: 306px;
+    /* left: 100px;
+    top: 306px; */
 
     font-weight: 600;
     font-size: 1.1rem;
