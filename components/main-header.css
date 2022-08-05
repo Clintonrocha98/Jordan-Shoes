@@ -1,0 +1,39 @@
+.main-header{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+
+    font-family: 'Montserrat';
+}
+.frete-bar{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    height: 60px;
+
+    background-color: #181818;
+    color: #F9F9F9;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 196.19%;
+}
+.name-bar{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    height: 60px;
+
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 196.19%;
+ 
+}
